@@ -42,4 +42,5 @@ Please open issues or PRs on the GitHub repository to collaborate.
 
 This repository is licensed under the terms in the `LICENSE` file.
 
-Happy learning — welcome to the Rustacean journey! 🦀
+Happy learning — welcome to the Rustacean journey! 
+
