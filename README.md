@@ -34,7 +34,7 @@ See `CONTRIBUTING.md` for contribution guidelines. Typical contributions:
 
 - Improvements to daily notes
 - Additional examples or exercises
-- Fixes to existing solutions
+- Fixes to existing solution
 
 Please open issues or PRs on the GitHub repository to collaborate.
 
